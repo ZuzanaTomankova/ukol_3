@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="669060f9-c953-4f27-bf78-198f9f766c54" name="Changes" comment="">
+    <list default="true" id="669060f9-c953-4f27-bf78-198f9f766c54" name="Changes" comment="rezervační systém hotelu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/engeto/ja/hotel/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/engeto/ja/hotel/Booking.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/engeto/ja/hotel/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/engeto/ja/hotel/Guest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/engeto/ja/hotel/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/engeto/ja/hotel/Room.java" afterDir="false" />
@@ -53,6 +52,19 @@
       <option name="presentableId" value="Default" />
       <updated>1706427556803</updated>
     </task>
+    <task id="LOCAL-00001" summary="rezervační systém hotelu">
+      <option name="closed" value="true" />
+      <created>1706471918524</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706471918524</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rezervační systém hotelu" />
+    <option name="LAST_COMMIT_MESSAGE" value="rezervační systém hotelu" />
   </component>
 </project>

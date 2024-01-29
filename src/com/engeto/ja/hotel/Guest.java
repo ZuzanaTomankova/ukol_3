@@ -6,9 +6,7 @@ public class Guest {
     private String name;
     private LocalDate birthdate;
 
-    public String getName() {
-        return name;
-    }
+
 
     public Guest(String name, LocalDate birthdate) {
         this.name = name;
@@ -23,6 +21,12 @@ public class Guest {
                 ')';
     }
 
+    //region Přístupové metody
+    public String getName() {
+        return name;
+    }
+
+
     public void setName(String name) {
         this.name = name;
     }
@@ -34,4 +38,5 @@ public class Guest {
     public void setBirthdate(LocalDate birthdate) {
         this.birthdate = birthdate;
     }
+    //endregiono
 }

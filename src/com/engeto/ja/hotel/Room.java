@@ -28,6 +28,7 @@ public class Room {
         this.price = price;
     }
 
+    //region Přístupové metody
     public int getNumber() {
         return number;
     }
@@ -67,4 +68,5 @@ public class Room {
     public void setPrice(BigDecimal price) {
         this.price = price;
     }
+    //endregion
 }

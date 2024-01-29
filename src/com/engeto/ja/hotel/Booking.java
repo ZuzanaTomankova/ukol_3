@@ -32,6 +32,7 @@ public class Booking {
                 ')';
     }
 
+    //region Přístupové metody
     public LocalDate getStartOfStay() {
         return startOfStay;
     }
@@ -71,4 +72,5 @@ public class Booking {
     public void setGuest(Guest guest) {
         this.guest = guest;
     }
+    //endregion
 }
